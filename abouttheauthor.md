@@ -9,3 +9,5 @@ His journey went from Assembler and C to C++ and Java to C# and F# and JavaScrip
 Most of his career Wolfgang was a contracting 'Enterprise Developer', so the introduction of 'new' languages, frameworks and concepts is very slow in this field. Once he decided to develop his own products he was free of such constraints and ventured into all sorts of paradigms, be it NoSQL or functional and evaluating all the latest ideas, crazy or not. In other words, he has fun developing software.
 
 Wolfgang was born in Vienna and lives in Austria and Kenya.
+
+cũ
