@@ -1,3 +1,5 @@
+[ToC](https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/Readme.md)
+
 ![Wolfgang Loder](assets/wl_face_small.jpg)
 
 Wolfgang is programming software since the 1980s. He successfully rejected all calls for management roles and remained hands-on until now.

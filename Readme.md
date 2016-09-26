@@ -4,21 +4,22 @@ This repository allows BETA access to the book [**Web applications with Elm**](h
 
 The chapters presented here are first drafts. They give an idea of the upcoming print book and ebook, but are not proofread or edited by the publisher. Not all chapters will be available as preview.
 
+{toc}
 ## Table of Contents
 
 * Introduction
 * [Chapter 1: About Elm](https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/chapter1.md)
 * [Chapter 2: Getting Started](https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/chapter2.md)
 * [Chapter 3: Elm Primer](https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/chapter3.md)
-* Chapter 4:
-* Chapter 5:
-* Chapter 6:
-* Chapter 7:
-* Chapter 8:
+* Chapter 4: Tooling and Libraries
+* Chapter 5: Building Blocks
+* Chapter 6: Putting it all together
+* Chapter 7: Beyond Web Applications
+* Chapter 8: Elm's Future
 * [Appendix A: Elm Syntax](https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/appendixa.md)
-* Appendix B:
-* Appendix C:
-* Appendix D:
+* Appendix B: The Theory behind Elm
+* Appendix C: Journey into the elm source Code
+* Appendix D: Resources
 * [About the Author](https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/abouttheauthor.md)
 
 ## License
