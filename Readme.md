@@ -8,10 +8,10 @@ The chapters presented here are first drafts. They give an idea of the upcoming 
 ## Table of Contents
 
 * Introduction
-* [Chapter 1: About Elm](https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/chapter1.md)
+* Chapter 1: About Elm
 * [Chapter 2: Getting Started](https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/chapter2.md)
 * [Chapter 3: Elm Primer](https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/chapter3.md)
-* Chapter 4: Tooling and Libraries
+* [Chapter 4: Tooling and Libraries](https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/chapter4.md)
 * Chapter 5: Building Blocks
 * Chapter 6: Putting it all together
 * Chapter 7: Beyond Web Applications
