@@ -14,12 +14,12 @@ computer. See Appendix C for setting this up.
 Let's have a look at a short example:
 
 ![Listing 3-1]
-(https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/Chapters/assets/example-3-1.png)
+(https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/assets/example-3-1.png)
 
 
 
 ![Listing 3-2]
-(https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/Chapters/assets/example-3-1-formatted.png)
+(https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/assets/example-3-1-formatted.png)
 
 
 #### Elm as functional language
@@ -65,13 +65,13 @@ model - update - view
 How is an Elm application organized? The simplest way is to have all [Elm architectural parts](#part3-chapter10) in one file:
 
 ![Simple Directory Structure]
-(https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/Chapters/assets/elm_directorystructure_simple.png)
+(https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/assets/elm_directorystructure_simple.png)
 
 Here we have one file - *main.elm* - and access all functions and the model from within this file. Most examples will adhere to this structure.
 
 Everything a little bit more complex will have something like the following:
 
 ![Complex Directory Structure]
-(https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/elm_directorystructure_complex.png)
+(https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/assets/elm_directorystructure_complex.png)
 
 We can have a discussion about the additional folders underneath *src*, but the important part is to separate the Elm architectural parts into files. I also believe that the names of models and functions should be a little more descriptive than just *model*, *init*, *update* or *view*.
