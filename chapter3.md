@@ -13,9 +13,34 @@ computer. See Appendix C for setting this up.
 
 Let's have a look at a short example:
 
-![Listing 3-1]
-(https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/assets/example-3-1.png)
+###### Example 3.1
+```elm
+module Hello exposing (..)
+import Html exposing (text)
+type Msg
+  = Change String
+    | Check
+    | Suggest (List String)
 
+main =
+    text "Hello World"
+
+update : Msg -> Model -> (Model, Cmd Msg)
+update msg model =
+  case msg of
+    Change newWord -> ( Model newWord [], Cmd.none )
+
+view : Model -> Html Msg
+view model =
+  div [][ input [ onInput Change ] [],
+    button [ onClick Check ] [ text "Check" ],
+    div [] [ text (String.join ", " model.suggestions) ]
+  ]
+```
+
+The code...
+
+Example 3.2
 ```elm
 module Hello exposing (..)
 
@@ -48,8 +73,6 @@ view model =
         ]
 ```
 
-![Listing 3-2]
-(https://github.com/kujua/webapplications-with-elm-beta-access/blob/master/assets/example-3-1-formatted.png)
 
 
 #### Elm as functional language
