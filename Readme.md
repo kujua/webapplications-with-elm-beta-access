@@ -1,6 +1,6 @@
 # Book *Web Applications with Elm* - BETA ACCESS
 
-This repository allows BETA access to the book [**Web applications with Elm**](http://leanpub.com/webapplicationswithelm). The estimated release date is March/April 2017.
+This repository allows BETA access to the book [**Web applications with Elm**](http://leanpub.com/webapplicationswithelm). The book will be published by [Apress](https://apress.com) and the estimated release date is March/April 2017.
 
 The chapters presented here are first drafts. They give an idea of the upcoming print book and ebook, but are not proofread or edited by the publisher. Not all chapters will be available as preview.
 
