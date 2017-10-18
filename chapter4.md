@@ -294,7 +294,7 @@ Sometimes we want to know what is going on in our application when we run it in 
 
 One way rot "look" into an application is to print information out. We did this decades ago and the method is still used, for example in JavaScript. Functional languages like Elm and asynchronous programs don't lend themselves easily to employ this. Therefore we find in the Elm core libraries the module *Debug*, but the warning is not to use it in production.
 
-The first function in the following example - *debuggerTestString* - uses *log* to print out debug information on the console. Form the perspective of functional programming this is not a pure functions and it is a side effect. The second function - *debuggerTestCrash* - crashes the application with a custom message.
+The first function in the following example - *debuggerTestString* - uses *log* to print out debug information on the console. From the perspective of functional programming this is not a pure functions and it is a side effect. The second function - *debuggerTestCrash* - crashes the application with a custom message.
 
 ###### Listing 4.12 Debug  - Code
 
